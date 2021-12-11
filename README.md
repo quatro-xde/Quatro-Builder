@@ -39,3 +39,17 @@
 - Spam Msg Boxes
  
 - Logout PC
+
+## Extra Discord Exploiting Stuff:
+
+- Discord Console Token Grabber Creator
+
+- Token Login Script Creator
+
+- Webhook Sender
+
+- Account Nuker
+
+- Friend Mass DM
+
+- Account Information Dropper
