@@ -1,6 +1,6 @@
 # Quatro-Builder
 
-Methods:
+## Grabbers Methods:
 
 - Token Grabber
 
